@@ -5,6 +5,7 @@
     <classes>
       <class name="pageobject_model.test.AddSeleniumDevTest"/>
       <class name="pageobject_model.test.CheckProductTest"/>
+      <class name="pageobject_model.test.SingUp"/>
     </classes>
   </test>
 </suite>

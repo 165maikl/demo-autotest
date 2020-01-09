@@ -2,9 +2,9 @@
   
 <suite name="Suite1" verbose="1" >  
   <test name="Regression">
-    <packages>
-      <package name="pageobject_model.test" />
-    </packages>
+    <classes>
+      <class name="pageobject_model.test.AddSeleniumDevTest"/>
+      <class name="pageobject_model.test.CheckProductTest"/>
+    </classes>
   </test>
 </suite>
-

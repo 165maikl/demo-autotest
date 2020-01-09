@@ -58,6 +58,9 @@
             <suiteXmlFiles>
               <suiteXmlFile>testng.xml</suiteXmlFile>
             </suiteXmlFiles>
+            <systemPropertyVariables>
+              <webdriver.chrome.driver>C:/SeleniumDrivers/chromedriver.exe</webdriver.chrome.driver>
+            </systemPropertyVariables>
           </configuration>
         </plugin>
         <plugin>

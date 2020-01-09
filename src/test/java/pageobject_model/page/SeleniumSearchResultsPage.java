@@ -22,7 +22,7 @@ public class SeleniumSearchResultsPage {
     }
 
     public int countResultNumberWithSearchTerm(){
-        List<WebElement> resultsNumberWithSearchTerm = driver.findElements(By.linkText("Selenium Server"));
+        List<WebElement> resultsNumberWithSearchTerm = driver.findElements(By.linkText("Selenium Projects"));
         System.out.println("Search results number for requested term:" + resultsNumberWithSearchTerm.size());
         return resultsNumberWithSearchTerm.size();
     }

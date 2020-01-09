@@ -13,7 +13,7 @@ import org.testng.annotations.Test;
 
 import java.util.List;
 
-public class StikerTest {
+public class CheckStiker {
     private WebDriver driver;
     private WebDriverWait wait;
 

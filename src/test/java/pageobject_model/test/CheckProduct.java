@@ -14,7 +14,7 @@ import java.util.Calendar;
 
 import static org.openqa.selenium.support.ui.ExpectedConditions.titleIs;
 
-public class CheckProductTest {
+public class CheckProduct {
     private WebDriver driver;
     private WebDriverWait wait;
 

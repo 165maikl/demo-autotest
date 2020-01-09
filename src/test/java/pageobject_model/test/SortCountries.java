@@ -15,7 +15,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-public class SortCountriesTest {
+public class SortCountries {
     private WebDriver driver;
     private WebDriverWait wait;
     int numberOfCountries;

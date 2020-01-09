@@ -8,7 +8,7 @@ import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 import pageobject_model.page.SeleniumHomePage;
 
-public class AddSeleniumDevTest {
+public class AddSeleniumDev {
     private WebDriver driver;
 
     @BeforeMethod(alwaysRun = true)

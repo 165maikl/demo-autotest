@@ -15,7 +15,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-public class SortSubmenuTest {
+public class SortSubmenu {
     private WebDriver driver;
     private WebDriverWait wait;
     int numberOfCountries, submenuQuantity;

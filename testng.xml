@@ -3,8 +3,8 @@
 <suite name="Suite1" verbose="1" >  
   <test name="Regression">
     <classes>
-      <class name="pageobject_model.test.AddSeleniumDevTest"/>
-      <class name="pageobject_model.test.CheckProductTest"/>
+      <class name="pageobject_model.test.AddSeleniumDev"/>
+      <class name="pageobject_model.test.CheckProduct"/>
       <class name="pageobject_model.test.SingUp"/>
     </classes>
   </test>

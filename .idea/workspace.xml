@@ -2,6 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e65a2c5-d947-4d05-9a61-0008ea7b7530" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pageobject_model/test/AddSeleniumDevTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pageobject_model/test/AddSeleniumDev.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pageobject_model/test/CheckProductTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pageobject_model/test/CheckProduct.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pageobject_model/test/SortCountriesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pageobject_model/test/SortCountries.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pageobject_model/test/SortGeoZoneTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pageobject_model/test/SortGeoZone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pageobject_model/test/SortSubmenuTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pageobject_model/test/SortSubmenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pageobject_model/test/StikerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pageobject_model/test/CheckStiker.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -18,7 +25,7 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/pageobject_model/test/AddSeleniumDevTest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/pageobject_model/test/AddSeleniumDev.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="418">
               <caret line="25" column="47" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="47" />
@@ -30,10 +37,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/pageobject_model/test/CheckProductTest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/pageobject_model/test/CheckProduct.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="88">
-              <caret line="16" column="29" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="29" />
+              <caret line="16" column="25" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -48,7 +55,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/pageobject_model/test/SortSubmenuTest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/pageobject_model/test/SortSubmenu.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="88">
               <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
@@ -57,7 +64,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/pageobject_model/test/StikerTest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/pageobject_model/test/CheckStiker.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="88">
               <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
@@ -239,7 +246,7 @@
     </option>
   </component>
   <component name="RunManager" selected="TestNG.D:/Mihas/Автомат/MyAutomationProject/demo-autotest/testng.xml">
-    <configuration name="AddSeleniumDevTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="AddSeleniumDev" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="demo-autotest" />
       <extension name="coverage">
         <pattern>
@@ -248,7 +255,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="pageobject_model.test" />
-      <option name="MAIN_CLASS_NAME" value="pageobject_model.test.AddSeleniumDevTest" />
+      <option name="MAIN_CLASS_NAME" value="pageobject_model.test.AddSeleniumDev" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -267,7 +274,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CheckProductTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="CheckProduct" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="demo-autotest" />
       <extension name="coverage">
         <pattern>
@@ -276,7 +283,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="pageobject_model.test" />
-      <option name="MAIN_CLASS_NAME" value="pageobject_model.test.CheckProductTest" />
+      <option name="MAIN_CLASS_NAME" value="pageobject_model.test.CheckProduct" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -354,7 +361,7 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32993197" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.50510204" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -376,28 +383,28 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/test/java/pageobject_model/test/WebDriverSelenium2Test.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/pageobject_model/test/SortCountriesTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/pageobject_model/test/SortCountries.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
           <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/pageobject_model/test/SortGeoZoneTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/pageobject_model/test/SortGeoZone.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
           <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/pageobject_model/test/SortSubmenuTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/pageobject_model/test/SortSubmenu.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
           <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/pageobject_model/test/StikerTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/pageobject_model/test/CheckStiker.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
           <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
@@ -411,10 +418,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/pageobject_model/test/CheckProductTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/pageobject_model/test/CheckProduct.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
-          <caret line="16" column="29" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="29" />
+          <caret line="16" column="25" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="25" />
         </state>
       </provider>
     </entry>
@@ -435,7 +442,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/pageobject_model/test/AddSeleniumDevTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/pageobject_model/test/AddSeleniumDev.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
           <caret line="25" column="47" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="47" />

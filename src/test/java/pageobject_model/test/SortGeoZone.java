@@ -15,7 +15,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-public class SortGeoZoneTest {
+public class SortGeoZone {
     private WebDriver driver;
     private WebDriverWait wait;
     int numberOfCountries;

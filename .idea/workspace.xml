@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e65a2c5-d947-4d05-9a61-0008ea7b7530" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/test/java/pageobject_model/test/SortCountries.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pageobject_model/test/SortCountries.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pageobject_model/test/AddSeleniumDev.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pageobject_model/test/AddSeleniumDev.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -17,6 +17,18 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/pageobject_model/test/AddSeleniumDev.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="720">
+              <caret line="37" column="1" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/pageobject_model/test/CheckProduct.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -71,7 +83,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/pageobject_model/test/SortCountries.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="742">
@@ -97,15 +109,6 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/pageobject_model/page/SeleniumSearchResultsPage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="24" column="105" selection-start-line="24" selection-start-column="105" selection-end-line="24" selection-end-column="105" />
             </state>
           </provider>
         </entry>
@@ -138,6 +141,7 @@
         <option value="$PROJECT_DIR$/src/test/java/pageobject_model/test/SortGeoZone.java" />
         <option value="$PROJECT_DIR$/src/test/java/pageobject_model/test/SortSubmenu.java" />
         <option value="$PROJECT_DIR$/src/test/java/pageobject_model/test/SortCountries.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pageobject_model/test/AddSeleniumDev.java" />
       </list>
     </option>
   </component>
@@ -375,16 +379,6 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/test/java/pageobject_model/test/WebDriverSelenium2Test.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/pageobject_model/test/AddSeleniumDev.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="25" column="47" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1342">
@@ -462,6 +456,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="742">
           <caret line="68" selection-start-line="68" selection-end-line="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pageobject_model/test/AddSeleniumDev.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="37" column="1" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

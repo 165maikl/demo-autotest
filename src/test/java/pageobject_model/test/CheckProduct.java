@@ -44,7 +44,6 @@ public class CheckProduct {
         //подождать пока не загрузится страница с заголовком "My Store"
         wait.until(titleIs("My Store"));
 
-
         //читаем текущее время - добавляем его к фамилии и имеем уникальный e-mail и пароль каждый раз
         Calendar calendar = Calendar.getInstance();
         int h = calendar.get(calendar.HOUR_OF_DAY);
@@ -53,7 +52,6 @@ public class CheckProduct {
 
         prefix = Integer.toString(h) + Integer.toString(m) + Integer.toString(s);
         prodName = firstName + " " + prefix;
-
 
         int y = calendar.get(calendar.YEAR);
         int month = calendar.get(calendar.MONTH);

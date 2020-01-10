@@ -43,12 +43,10 @@ public class SortGeoZone {
         //переход на страницу выполнения теста
         driver.get("http://localhost/litecart/admin/?app=geo_zones&doc=geo_zones");
 
-
         //определение списка стран
         listOfCountries = driver.findElements(By.cssSelector(".row"));
         //сохраняем количество стран
         numberOfCountries = listOfCountries.size();
-
 
         //проходим по списку стран
         for (int i = 0; i < numberOfCountries; i++) {
@@ -91,7 +89,6 @@ public class SortGeoZone {
             driver.navigate().back();
         }
     }
-
 
     @AfterMethod
     public void stop() {

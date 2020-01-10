@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e65a2c5-d947-4d05-9a61-0008ea7b7530" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/test/java/pageobject_model/test/SortSubmenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pageobject_model/test/SortSubmenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pageobject_model/test/SortCountries.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pageobject_model/test/SortCountries.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -26,7 +26,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/pageobject_model/test/SortSubmenu.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="742">
@@ -71,11 +71,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/pageobject_model/test/SortCountries.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="720">
-              <caret line="67" column="1" selection-start-line="67" selection-start-column="1" selection-end-line="67" selection-end-column="1" />
+            <state relative-caret-position="742">
+              <caret line="68" selection-start-line="68" selection-end-line="68" />
             </state>
           </provider>
         </entry>
@@ -135,9 +135,9 @@
         <option value="$PROJECT_DIR$/src/test/java/pageobject_model/test/CheckStiker.java" />
         <option value="$PROJECT_DIR$/src/test/java/pageobject_model/test/LeftMenuClick.java" />
         <option value="$PROJECT_DIR$/src/test/java/pageobject_model/test/SingUp.java" />
-        <option value="$PROJECT_DIR$/src/test/java/pageobject_model/test/SortCountries.java" />
         <option value="$PROJECT_DIR$/src/test/java/pageobject_model/test/SortGeoZone.java" />
         <option value="$PROJECT_DIR$/src/test/java/pageobject_model/test/SortSubmenu.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pageobject_model/test/SortCountries.java" />
       </list>
     </option>
   </component>
@@ -444,13 +444,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/pageobject_model/test/SortCountries.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="67" column="1" selection-start-line="67" selection-start-column="1" selection-end-line="67" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/pageobject_model/test/SortGeoZone.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
@@ -462,6 +455,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="742">
           <caret line="100" selection-start-line="100" selection-end-line="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pageobject_model/test/SortCountries.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="742">
+          <caret line="68" selection-start-line="68" selection-end-line="68" />
         </state>
       </provider>
     </entry>

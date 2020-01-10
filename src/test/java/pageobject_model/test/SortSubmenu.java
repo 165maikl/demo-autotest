@@ -23,7 +23,6 @@ public class SortSubmenu {
     WebElement currentCountry, submenuPoint;
     List<String> textListOfSubmenu, textSortListOfSubmenu;
 
-
     @BeforeMethod
     public void start() {
         driver = new ChromeDriver();
@@ -47,7 +46,6 @@ public class SortSubmenu {
         listOfCountries = driver.findElements(By.xpath("//td[5]/a"));
         //сохраняем количество стран
         numberOfCountries = listOfCountries.size();
-
 
         //проходим по списку стран
         for (int i = 0; i < numberOfCountries; i++) {
@@ -93,7 +91,6 @@ public class SortSubmenu {
             }
         }
     }
-
 
     @AfterMethod
     public void stop() {

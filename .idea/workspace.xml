@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e65a2c5-d947-4d05-9a61-0008ea7b7530" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/test/java/pageobject_model/test/LeftMenuClick.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pageobject_model/test/LeftMenuClick.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pageobject_model/test/SingUp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pageobject_model/test/SingUp.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -65,7 +65,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/pageobject_model/test/LeftMenuClick.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="720">
@@ -83,11 +83,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/pageobject_model/test/SingUp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="14" column="19" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="19" />
+            <state relative-caret-position="706">
+              <caret line="108" column="1" selection-start-line="108" selection-start-column="1" selection-end-line="108" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -131,13 +131,13 @@
         <option value="$PROJECT_DIR$/src/test/java/pageobject_model/test/SortCountriesTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/pageobject_model/test/AddSeleniumDevTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/pageobject_model/page/SeleniumHomePage.java" />
-        <option value="$PROJECT_DIR$/src/test/java/pageobject_model/test/SingUp.java" />
         <option value="$PROJECT_DIR$/src/test/java/pageobject_model/page/SeleniumSearchResultsPage.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/testng.xml" />
         <option value="$PROJECT_DIR$/src/test/java/pageobject_model/test/CheckProduct.java" />
         <option value="$PROJECT_DIR$/src/test/java/pageobject_model/test/CheckStiker.java" />
         <option value="$PROJECT_DIR$/src/test/java/pageobject_model/test/LeftMenuClick.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pageobject_model/test/SingUp.java" />
       </list>
     </option>
   </component>
@@ -413,13 +413,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/pageobject_model/test/SingUp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="14" column="19" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/pageobject_model/page/SeleniumSearchResultsPage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
@@ -462,6 +455,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="720">
           <caret line="91" column="1" selection-start-line="91" selection-start-column="1" selection-end-line="91" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pageobject_model/test/SingUp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="706">
+          <caret line="108" column="1" selection-start-line="108" selection-start-column="1" selection-end-line="108" selection-end-column="1" />
         </state>
       </provider>
     </entry>

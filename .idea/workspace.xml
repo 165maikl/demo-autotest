@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e65a2c5-d947-4d05-9a61-0008ea7b7530" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/test/java/pageobject_model/test/CheckProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pageobject_model/test/CheckProduct.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pageobject_model/test/CheckStiker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pageobject_model/test/CheckStiker.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -29,7 +30,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/pageobject_model/test/CheckProduct.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="640">
@@ -56,11 +57,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/pageobject_model/test/CheckStiker.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+            <state relative-caret-position="706">
+              <caret line="58" column="1" selection-start-line="58" selection-start-column="1" selection-end-line="58" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -127,7 +128,6 @@
         <option value="$PROJECT_DIR$/src/test/java/pageobject_model/test/CheckSortCountries.java" />
         <option value="$PROJECT_DIR$/src/test/java/pageobject_model/test/CheckSortGeoZone.java" />
         <option value="$PROJECT_DIR$/src/test/java/pageobject_model/test/CheckSortSubmenu.java" />
-        <option value="$PROJECT_DIR$/src/test/java/pageobject_model/test/CheckStiker.java" />
         <option value="$PROJECT_DIR$/src/test/java/pageobject_model/test/LeftMenuClick.java" />
         <option value="$PROJECT_DIR$/src/test/java/pageobject_model/test/CheckSortCountriesTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/pageobject_model/test/SortCountriesTest.java" />
@@ -138,6 +138,7 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/testng.xml" />
         <option value="$PROJECT_DIR$/src/test/java/pageobject_model/test/CheckProduct.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pageobject_model/test/CheckStiker.java" />
       </list>
     </option>
   </component>
@@ -413,13 +414,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/pageobject_model/test/CheckStiker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/pageobject_model/test/LeftMenuClick.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1694">
@@ -462,6 +456,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="640">
           <caret line="92" column="96" selection-start-line="92" selection-start-column="96" selection-end-line="92" selection-end-column="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pageobject_model/test/CheckStiker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="706">
+          <caret line="58" column="1" selection-start-line="58" selection-start-column="1" selection-end-line="58" selection-end-column="1" />
         </state>
       </provider>
     </entry>

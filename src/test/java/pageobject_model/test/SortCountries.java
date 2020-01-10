@@ -22,7 +22,6 @@ public class SortCountries {
     List<WebElement> listOfCountries;
     List<String> textListOfCountries, textSortListOfCountries;
 
-
     @BeforeMethod
     public void start(){
         driver = new ChromeDriver();

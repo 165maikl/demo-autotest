@@ -91,8 +91,6 @@ public class CheckProduct {
         driver.findElement(By.name("name[en]")).sendKeys(prodName);
         //вводим код товара + устанавливаем категорию Rubber Ducks
         driver.findElement(By.name("code")).sendKeys(prefix + Keys.TAB + Keys.TAB + Keys.SPACE);
-        //устанавливаем категорию Rubber Ducks
-//        driver.findElement(By.cssSelector("[data-name*=Rubber]")).click();
         //устанавливаем группу Unisex
         driver.findElement(By.xpath("(//input[@name='product_groups[]'])[3]")).click();
         //устанавливаем количество 1

@@ -4,7 +4,7 @@
   <test name="Regression">
     <classes>
       <class name="pageobject_model.test.CheckProduct"/>
-      <class name="pageobject_model.test.AddSeleniumDev"/>
+      <class name="pageobject_model.test.SortGeoZone"/>
     </classes>
   </test>
 </suite>
